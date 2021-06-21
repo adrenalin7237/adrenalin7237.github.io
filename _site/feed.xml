@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-15T11:17:25+09:00</updated><id>/feed.xml</id><title type="html">DEVELOPMENT</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">First post</title><link href="/blog/first-post/" rel="alternate" type="text/html" title="First post" /><published>2021-06-15T00:00:00+09:00</published><updated>2020-05-25T00:00:00+09:00</updated><id>/blog/first-post</id><content type="html" xml:base="/blog/first-post/">&lt;h1 id=&quot;test&quot;&gt;Test&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-21T18:30:41+09:00</updated><id>/feed.xml</id><title type="html">DEVELOPMENT</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">ROS2 중요 특징</title><link href="/ros2%20foxy/ros2-properties/" rel="alternate" type="text/html" title="ROS2 중요 특징" /><published>2021-06-21T00:00:00+09:00</published><updated>2020-06-21T00:00:00+09:00</updated><id>/ros2%20foxy/ros2-properties</id><content type="html" xml:base="/ros2%20foxy/ros2-properties/">&lt;h1 id=&quot;참조사이트&quot;&gt;참조사이트&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;모든 정보는 &lt;a href=&quot;https://cafe.naver.com/openrt/23965&quot;&gt;&lt;strong&gt;이곳&lt;/strong&gt;&lt;/a&gt;에서 참조하였다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ros1-vs-ros2&quot;&gt;ROS1 vs ROS2&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;ROS1&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;ROS2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;단일로봇&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;복수대의 로봇&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;워크스테이션급 컴퓨터&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;임베디드에서도 사용가능&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;리눅스 환경&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;멀티 플랫폼(리눅스,맥,윈도우)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;실시간 제어 불가능&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;실시간 제어 가능&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;안정된 네트워크 환경요구&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;불안정한 네트워크에서도 동작가능(유연)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Your Name</name></author><category term="ROS2 foxy" /><category term="ROS2" /><category term="foxy" /><summary type="html">ROS1과 비교하는 ROS2</summary></entry><entry><title type="html">First post</title><link href="/blog/first-post/" rel="alternate" type="text/html" title="First post" /><published>2021-06-15T00:00:00+09:00</published><updated>2020-05-25T00:00:00+09:00</updated><id>/blog/first-post</id><content type="html" xml:base="/blog/first-post/">&lt;h1 id=&quot;test&quot;&gt;Test&lt;/h1&gt;
 &lt;ol&gt;
   &lt;li&gt;test 실시
     &lt;ol&gt;

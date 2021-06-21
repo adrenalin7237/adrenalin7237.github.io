@@ -1,0 +1,39 @@
+I"�<h1 id="참조사이트">참조사이트</h1>
+<ul>
+  <li>모든 정보는 <a href="https://cafe.naver.com/openrt/23965"><strong>이곳</strong></a>에서 참조하였다.</li>
+</ul>
+
+<h1 id="ros1-vs-ros2">ROS1 vs ROS2</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">ROS1</th>
+      <th style="text-align: right">ROS2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">단일로봇</td>
+      <td style="text-align: right">복수대의 로봇</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">워크스테이션급 컴퓨터</td>
+      <td style="text-align: right">임베디드에서도 사용가능</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">리눅스 환경</td>
+      <td style="text-align: right">멀티 플랫폼(리눅스,맥,윈도우)</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">실시간 제어 불가능</td>
+      <td style="text-align: right">실시간 제어 가능</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">안정된 네트워크 환경요구</td>
+      <td style="text-align: right">불안정한 네트워크에서도 동작가능(유연)</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
