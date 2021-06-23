@@ -10,4 +10,16 @@ var store = [{
         "tags": ["ROS2","foxy"],
         "url": "/ros2%20foxy/ros2-properties/",
         "teaser": null
+      },{
+        "title": "DDS in ROS2",
+        "excerpt":"참조사이트     모든 정보는 이곳에서 참조하였다.   기술하기 앞서, DDS의 영역은 개인이 기술하기엔 복잡하기 때문에 ROS2를 사용하기 위한 최소의 지식만 기술하였다. (추후에 알게된 내용이나 발생한 이슈/해결 상황에 대해서는 기술할 예정)           DDS 내용 파악            ROS2의 DDS (실제 어떻게 사용되는지)       ","categories": ["ROS2 foxy"],
+        "tags": ["ROS2","foxy","DDS"],
+        "url": "/ros2%20foxy/ros2-DDS/",
+        "teaser": null
+      },{
+        "title": "rqt tool",
+        "excerpt":"참조사이트     모든 정보는 이곳에서 참조하였다.   rqt 에 사용되는 꿀사용법 기술   추후에 알게된 내용 발생한 이슈/해결 상황에 대해서 기술할 예정      rqt의 각 기능 정보 (많이 쓰는 것)   ","categories": ["ROS2 foxy"],
+        "tags": ["ROS2","foxy","rqt"],
+        "url": "/ros2%20foxy/ros2-rqt/",
+        "teaser": null
       }]
