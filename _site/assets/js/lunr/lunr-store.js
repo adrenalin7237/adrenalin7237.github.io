@@ -22,4 +22,10 @@ var store = [{
         "tags": ["ROS2","foxy","rqt"],
         "url": "/ros2%20foxy/ros2-rqt/",
         "teaser": null
+      },{
+        "title": "c++",
+        "excerpt":" ","categories": ["C++"],
+        "tags": ["c++"],
+        "url": "/c++/c++-test/",
+        "teaser": null
       }]
