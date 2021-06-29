@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-25T11:24:12+09:00</updated><id>/feed.xml</id><title type="html">DEVELOPMENT</title><subtitle>An amazing website.</subtitle><author><name>Header name</name></author><entry><title type="html">c++</title><link href="/c++/c++-test/" rel="alternate" type="text/html" title="c++" /><published>2021-06-25T00:00:00+09:00</published><updated>2020-06-25T00:00:00+09:00</updated><id>/c++/c++-test</id><content type="html" xml:base="/c++/c++-test/"></content><author><name>Header name</name></author><category term="C++" /><category term="c++" /><summary type="html">c++ core</summary></entry><entry><title type="html">DDS in ROS2</title><link href="/ros2%20foxy/ros2-DDS/" rel="alternate" type="text/html" title="DDS in ROS2" /><published>2021-06-23T00:00:00+09:00</published><updated>2020-06-23T00:00:00+09:00</updated><id>/ros2%20foxy/ros2-DDS</id><content type="html" xml:base="/ros2%20foxy/ros2-DDS/">&lt;h1 id=&quot;참조사이트&quot;&gt;참조사이트&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-29T17:20:26+09:00</updated><id>/feed.xml</id><title type="html">DEVELOPMENT</title><subtitle>An amazing website.</subtitle><author><name>Header name</name></author><entry><title type="html">Beginner’s Guide to the Bash Terminal</title><link href="/linux/Beginners-Guide-to-the-Bash-Terminal/" rel="alternate" type="text/html" title="Beginner’s Guide to the Bash Terminal" /><published>2021-06-29T00:00:00+09:00</published><updated>2020-06-29T00:00:00+09:00</updated><id>/linux/Beginners-Guide-to-the-Bash-Terminal</id><content type="html" xml:base="/linux/Beginners-Guide-to-the-Bash-Terminal/">&lt;h2 id=&quot;0-what-is-bash-shell-&quot;&gt;0. What is BASH SHELL ?&lt;/h2&gt;
+
+&lt;h2 id=&quot;1-navigation&quot;&gt;1. NAVIGATION&lt;/h2&gt;
+
+&lt;h2 id=&quot;2-getting-help&quot;&gt;2. GETTING HELP&lt;/h2&gt;
+
+&lt;h2 id=&quot;3-working-with-files&quot;&gt;3. WORKING WITH FILES&lt;/h2&gt;
+
+&lt;h2 id=&quot;4-text-files&quot;&gt;4. TEXT FILES&lt;/h2&gt;
+
+&lt;h2 id=&quot;5-users&quot;&gt;5. USERS&lt;/h2&gt;
+
+&lt;h2 id=&quot;6-changing-file-permissions&quot;&gt;6. CHANGING FILE PERMISSIONS&lt;/h2&gt;
+
+&lt;h2 id=&quot;7-killing-programs-and-logging-out&quot;&gt;7. KILLING PROGRAMS AND LOGGING OUT&lt;/h2&gt;
+
+&lt;h2 id=&quot;8-useful-shortcuts&quot;&gt;8. USEFUL SHORTCUTS&lt;/h2&gt;
+
+&lt;h2 id=&quot;reference&quot;&gt;[Reference]&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oxuRxtrO2Ag&quot;&gt;&lt;strong&gt;https://www.youtube.com/watch?v=oxuRxtrO2Ag&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Header name</name></author><category term="Linux" /><category term="Bash" /><category term="Linux" /><summary type="html">Bash</summary></entry><entry><title type="html">c++</title><link href="/c++/c++-test/" rel="alternate" type="text/html" title="c++" /><published>2021-06-25T00:00:00+09:00</published><updated>2020-06-25T00:00:00+09:00</updated><id>/c++/c++-test</id><content type="html" xml:base="/c++/c++-test/"></content><author><name>Header name</name></author><category term="C++" /><category term="c++" /><summary type="html">c++ core</summary></entry><entry><title type="html">DDS in ROS2</title><link href="/ros2%20foxy/ros2-DDS/" rel="alternate" type="text/html" title="DDS in ROS2" /><published>2021-06-23T00:00:00+09:00</published><updated>2020-06-23T00:00:00+09:00</updated><id>/ros2%20foxy/ros2-DDS</id><content type="html" xml:base="/ros2%20foxy/ros2-DDS/">&lt;h1 id=&quot;참조사이트&quot;&gt;참조사이트&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;모든 정보는 &lt;a href=&quot;https://cafe.naver.com/openrt/24031&quot;&gt;&lt;strong&gt;이곳&lt;/strong&gt;&lt;/a&gt;에서 참조하였다.&lt;/li&gt;
   &lt;li&gt;기술하기 앞서, DDS의 영역은 개인이 기술하기엔 복잡하기 때문에 ROS2를 사용하기 위한 최소의 지식만 기술하였다. (추후에 알게된 내용이나 발생한 이슈/해결 상황에 대해서는 기술할 예정)&lt;/li&gt;

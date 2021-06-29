@@ -28,4 +28,10 @@ var store = [{
         "tags": ["c++"],
         "url": "/c++/c++-test/",
         "teaser": null
+      },{
+        "title": "Beginner's Guide to the Bash Terminal",
+        "excerpt":"0. What is BASH SHELL ?   1. NAVIGATION   2. GETTING HELP   3. WORKING WITH FILES   4. TEXT FILES   5. USERS   6. CHANGING FILE PERMISSIONS   7. KILLING PROGRAMS AND LOGGING OUT   8. USEFUL SHORTCUTS   [Reference]     https://www.youtube.com/watch?v=oxuRxtrO2Ag  ","categories": ["Linux"],
+        "tags": ["Bash","Linux"],
+        "url": "/linux/Beginners-Guide-to-the-Bash-Terminal/",
+        "teaser": null
       }]
